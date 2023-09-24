@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\homeWork3.csproj": {}
+    "c:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\homeWork3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\homeWork3.csproj": {
+    "c:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\homeWork3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\homeWork3.csproj",
+        "projectUniqueName": "c:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\homeWork3.csproj",
         "projectName": "homeWork3",
-        "projectPath": "C:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\homeWork3.csproj",
+        "projectPath": "c:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\homeWork3.csproj",
         "packagesPath": "C:\\Users\\Comp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\obj\\",
+        "outputPath": "c:\\Users\\Comp\\Desktop\\Python\\С#\\homeWork3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Comp\\AppData\\Roaming\\NuGet\\NuGet.Config"
